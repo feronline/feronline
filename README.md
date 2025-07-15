@@ -6,11 +6,6 @@
 </p>
 
 ---
-### 🧠 GitHub Profile Summary
-
-<p align="center">
-  <img src="profile_summary.png" alt="GitHub Profile Summary" width="100%" />
-</p>
 
 ### 🧰 Tech Stack
 
