@@ -24,7 +24,7 @@
 
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=feronline&show_icons=true&theme=radical" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feronline&layout=compact&hide=html,css,yml,c%23,c%2B%2B&theme=radical" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feronline&layout=compact&theme=radical" />
 </p>
 
 ---

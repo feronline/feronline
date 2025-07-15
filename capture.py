@@ -9,7 +9,7 @@ def capture_profile_summary(username="feronline"):
         browser = p.chromium.launch()
         page = browser.new_page()
         page.goto(url)
-        page.wait_for_timeout(5000)  # sayfa yüklenmesini bekle
+        page.wait_for_timeout(5000)
         page.screenshot(path=output_file, full_page=True)
         browser.close()
 
