@@ -15,8 +15,9 @@
 
 ---
 
-### 📊 GitHub Commits
 <img src="https://raw.githubusercontent.com/feronline/feronline/main/metrics.plugin.isocalendar.svg" alt="GitHub Calendar" />
+
+---
 
 ### 📊 GitHub Stats
 
