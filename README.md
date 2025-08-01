@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+and+ML+Enthusiast;Loves+clean+code+%26+creative+UIs" alt="Typing SVG"width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+and+ML+Enthusiast;Loves+clean+code+%26+creative+UIs" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,8 +15,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/feronline/feronline/main/metrics.plugin.isocalendar.svg" alt="GitHub Calendar" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/feronline/feronline/main/metrics.plugin.isocalendar.svg" width="90%" alt="GitHub Contribution Calendar"/>
+</div>
 ---
 
 ### 📊 GitHub Stats
