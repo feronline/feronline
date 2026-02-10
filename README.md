@@ -45,10 +45,10 @@
   <tr>
     <td align="center">
       <a href="https://store.steampowered.com/app/4160870">
-        <img src="assets/steam-header.jpg" height="180" />
+        <img src="assets/steam-header.png" height="180" />
       </a>
       <br/>
-      <b>Keyception</b><br/>
+      <b>Echoes of the Rest</b><br/>
       Steam
     </td>
     <td align="center">
