@@ -37,13 +37,11 @@
   <img src="https://komarev.com/ghpvc/?username=feronline&label=Profile+Views&color=0e75b6&style=flat" alt="feronline" />
 </p>
 
----<p align="center">
-  <a href="https://store.steampowered.com/app/4160870">
-    <img src="assets/steam-header.jpg" width="600" />
-  </a>
-  <br/>
-  🎮 <b>Play on Steam</b>
-</p>
+---
+
+### 🎮 Available on Steam
+
+[![Keyception on Steam](assets/steam-header.jpg)](https://store.steampowered.com/app/4160870)
 
 
 
