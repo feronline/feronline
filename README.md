@@ -2,8 +2,9 @@
 <h3 align="center">Software Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+and+ML+Enthusiast;Loves+clean+code+%26+creative+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Solo+Game+Developer" alt="Typing SVG" />
 </p>
+
 
 ---
 
