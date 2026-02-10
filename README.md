@@ -49,7 +49,7 @@
       </a>
       <br/>
       <b>Echoes of the Rest</b><br/>
-      Steam
+      Steam • PC
     </td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">
@@ -57,7 +57,7 @@
       </a>
       <br/>
       <b>Crowd Mayhem</b><br/>
-      Google Play
+      Google Play • Mobile
     </td>
   </tr>
 </table>
