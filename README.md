@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://store.steampowered.com/app/4160870">
-    <img src="assets/steam-header.jpg" width="500" />
+    <img src="assets/steam-header.png" width="500" />
   </a>
 </p>
 
