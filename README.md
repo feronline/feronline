@@ -45,15 +45,15 @@
   <tr>
     <td align="center">
       <a href="https://store.steampowered.com/app/4160870">
-        <img src="assets/steam-header.png" width="420" />
+        <img src="assets/steam-header.jpg" height="180" />
       </a>
       <br/>
-      <b>Echoes of the Rest</b><br/>
+      <b>Keyception</b><br/>
       Steam
     </td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">
-        <img src="assets/banner.png" width="420" />
+        <img src="assets/banner.png" height="180" />
       </a>
       <br/>
       <b>Crowd Mayhem</b><br/>
@@ -61,6 +61,5 @@
     </td>
   </tr>
 </table>
-
 
 
