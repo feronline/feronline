@@ -10,8 +10,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,flask,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,unity,cs,tensorflow,pytorch" />
 </p>
+
 
 ---
 
@@ -20,20 +21,11 @@
 </div>
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=feronline&show_icons=true&theme=radical" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feronline&layout=compact&theme=radical" />
-</p>
-
----
-
 
 ### 📫 Contact Me
 
 - ✉️ Email: ferhattopcuoglu256@gmail.com 
-- 🌐 Website: [ferhattopcuoglu.com](https://ferhattopcuoglu.com)
+- 🌐 Website: [feronlinegames.com](https://feronlinegames.com/)
 
 ---
 ### 🌐 Visitors
