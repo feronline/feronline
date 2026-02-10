@@ -39,7 +39,7 @@
 
 ---
 ### 🎮 Available on Steam
+[![Keyception on Steam](https://raw.githubusercontent.com/feronline/feronline/main/assets/steam-header.jpg)](https://store.steampowered.com/app/4160870)
 
-[![Keyception on Steam](assets/steam-header.jpg)](https://store.steampowered.com/app/4160870)
 
 
