@@ -16,10 +16,12 @@
 
 
 ---
+### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/feronline/feronline/main/metrics.plugin.isocalendar.svg" width="90%" alt="GitHub Contribution Calendar"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feronline/feronline/output/github-snake-dark.svg" />
+</p>
+
 ---
 
 
@@ -36,10 +38,4 @@
 </p>
 
 ---
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/feronline/feronline/output/github-snake-dark.svg" />
-</p>
-
----
