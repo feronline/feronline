@@ -48,7 +48,7 @@
         <img src="assets/steam-header.png" width="420" />
       </a>
       <br/>
-      <b>Keyception</b><br/>
+      <b>Echoes of the Rest</b><br/>
       Steam
     </td>
     <td align="center">
