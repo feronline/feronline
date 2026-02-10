@@ -38,14 +38,8 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://store.steampowered.com/app/4160870">
-    <img src="keyception.gif" width="600" />
-  </a>
-</p>
+### 🎮 Available on Steam
 
-<p align="center">
-  🎮 <b>Play on Steam</b>
-</p>
+[![Keyception on Steam](assets/steam-header.jpg)](https://store.steampowered.com/app/4160870)
 
 
