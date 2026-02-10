@@ -39,13 +39,28 @@
 
 ---
 
-<p align="center">
-  <a href="https://store.steampowered.com/app/4160870">
-    <img src="assets/steam-header.png" width="500" />
-  </a>
-  <br/>
-  🎮 <b>Play on Steam</b>
-</p>
+### 🎮 Available on Stores
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/4160870">
+        <img src="assets/steam-header.png" width="420" />
+      </a>
+      <br/>
+      <b>Keyception</b><br/>
+      Steam
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">
+        <img src="assets/banner.png" width="420" />
+      </a>
+      <br/>
+      <b>Crowd Mayhem</b><br/>
+      Google Play
+    </td>
+  </tr>
+</table>
 
 
 
