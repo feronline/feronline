@@ -38,7 +38,14 @@
 </p>
 
 ---
-### 🎮 Available on Steam
+<p align="center">
+  <a href="https://store.steampowered.com/app/4160870">
+    <img src="keyception.gif" width="600" />
+  </a>
+</p>
 
-[![Keyception on Steam](https://cdn.cloudflare.steamstatic.com/steam/apps/4160870/header.jpg)](https://store.steampowered.com/app/4160870)
+<p align="center">
+  🎮 <b>Play on Steam</b>
+</p>
+
 
