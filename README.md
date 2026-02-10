@@ -36,3 +36,10 @@
 </p>
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-snake-dark.svg" />
+</p>
+
+---
