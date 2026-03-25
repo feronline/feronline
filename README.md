@@ -23,7 +23,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feronline&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 ### 📫 Contact Me
 
 - ✉️ Email: ferhattopcuoglu256@gmail.com 
