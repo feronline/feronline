@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ferhat Topcuoğlu</h1>
-<h3 align="center">Software Engineer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | AI Enthusiast | Prompt Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Solo+Game+Developer" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Solo+Game+Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Solo+Game+Developer;AI+Engineer;Mobile+Developer;Prompt+Engineer)" alt="Typing SVG" />
 </p>
 
 
