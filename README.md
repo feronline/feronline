@@ -22,9 +22,10 @@
 </p>
 
 ---
-
+### 🧰 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feronline&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feronline&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feronline&theme=tokyonight&hide_border=true&background=1a1b26&ring=00FFAA&fire=00FFAA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFAA&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
