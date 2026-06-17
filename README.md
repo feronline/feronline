@@ -110,7 +110,7 @@
       </a>
       <br/>
       <b>Bloq</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">Play Store</a>
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">Play Store</a> • <i>App Store (coming soon)</i>
     </td>
   </tr>
 </table>
