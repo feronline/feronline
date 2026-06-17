@@ -44,24 +44,73 @@
 ---
 
 ### 🎮 Available on Stores
-
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://store.steampowered.com/app/4160870">
-        <img src="assets/steam-header.png" height="180" />
+        <img src="assets/steam-header.png" height="160" />
       </a>
       <br/>
       <b>Echoes of the Rest</b><br/>
-      Steam • PC
+      <a href="https://store.steampowered.com/app/4160870">Steam</a>
     </td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">
-        <img src="assets/banner.png" height="180" />
+        <img src="assets/banner.png" height="160" />
       </a>
       <br/>
       <b>Crowd Mayhem</b><br/>
-      Google Play • Mobile
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">Play Store</a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.nurapp">
+        <img src="assets/nurapp.png" height="160" />
+      </a>
+      <br/>
+      <b>NurApp</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.nurapp">Play Store</a> • <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058">App Store</a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.zent">
+        <img src="assets/zent.png" height="160" />
+      </a>
+      <br/>
+      <b>Zent</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.zent">Play Store</a> • <a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211">App Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.koerun">
+        <img src="assets/koerun.png" height="160" />
+      </a>
+      <br/>
+      <b>Koerun</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.koerun">Play Store</a> • <i>App Store (coming soon)</i>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.megurio">
+        <img src="assets/megurio.png" height="160" />
+      </a>
+      <br/>
+      <b>Megurio</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.megurio">Play Store</a> • <i>App Store (coming soon)</i>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.cookpot">
+        <img src="assets/cookpot.png" height="160" />
+      </a>
+      <br/>
+      <b>CookPot</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.cookpot">Play Store</a> • <i>App Store (coming soon)</i>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">
+        <img src="assets/bloq.png" height="160" />
+      </a>
+      <br/>
+      <b>Bloq</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">Play Store</a>
     </td>
   </tr>
 </table>
