@@ -1,118 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ferhat Topcuoğlu</h1>
-<h3 align="center">Software Engineer | AI Enthusiast | Prompt Engineer</h3>
+## Ferhat Topcuoğlu
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Solo+Game+Developer;AI+Engineer;Mobile+Developer;Prompt+Engineer" alt="Typing SVG" />
-</p>
+Unity game developer based in Istanbul. I make games on my own under **FerOnline Games** and handle everything from the first prototype to the store page. So far that means a horror game on Steam, an online co-op game with a public demo, and casual mobile games on Google Play. I also build mobile apps with React Native.
 
----
+Right now I'm working on **The Pool Problem**, a 4-player online co-op incremental sim built with Netcode for GameObjects and Steamworks, and **Cozy Paws**, a desktop companion idle game that sits on your taskbar.
 
-### 🧰 Tech Stack
+[feronlinegames.com](https://feronlinegames.com/) · [LinkedIn](https://www.linkedin.com/in/ferhattopcuoglu/) · [ferhattopcuoglu256@gmail.com](mailto:ferhattopcuoglu256@gmail.com)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,unity,cs,tensorflow,pytorch" />
-</p>
+### Games on Steam
 
-
----
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/feronline/feronline/output/github-snake-dark.svg" />
-</p>
-
----
-### 🧰 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feronline&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feronline&theme=tokyonight&hide_border=true&background=1a1b26&ring=00FFAA&fire=00FFAA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFAA&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</p>
-
----
-### 📫 Contact Me
-
-- ✉️ Email: ferhattopcuoglu256@gmail.com 
-- 🌐 Website: [feronlinegames.com](https://feronlinegames.com/)
-
----
-### 🌐 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feronline&label=Profile+Views&color=0e75b6&style=flat" alt="feronline" />
-</p>
-
----
-
-### 🎮 Available on Stores
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      <a href="https://store.steampowered.com/app/4160870">
-        <img src="assets/steam-header.png" height="160" />
-      </a>
-      <br/>
-      <b>Echoes of the Rest</b><br/>
-      <a href="https://store.steampowered.com/app/4160870">Steam</a>
+    <td align="center" width="33%">
+      <a href="https://store.steampowered.com/app/5550040/The_Pool_Problem/"><img src="assets/the-pool-problem.jpg" width="260" alt="The Pool Problem Steam capsule art" /></a><br />
+      <b>The Pool Problem</b><br />
+      Online co-op incremental sim for up to 4 players<br />
+      <a href="https://store.steampowered.com/app/5550040/The_Pool_Problem/">Steam</a> · demo out now
     </td>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">
-        <img src="assets/banner.png" height="160" />
-      </a>
-      <br/>
-      <b>Crowd Mayhem</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">Play Store</a>
+    <td align="center" width="33%">
+      <a href="https://store.steampowered.com/app/4160870/Echoes_of_the_Rest/"><img src="assets/steam-header.png" width="260" alt="Echoes of the Rest Steam capsule art" /></a><br />
+      <b>Echoes of the Rest</b><br />
+      First-person psychological horror, Unity HDRP<br />
+      <a href="https://store.steampowered.com/app/4160870/Echoes_of_the_Rest/">Steam</a> · released Jan 2026
     </td>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.nurapp">
-        <img src="assets/nurapp.png" height="160" />
-      </a>
-      <br/>
-      <b>NurApp</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.nurapp">Play Store</a> • <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058">App Store</a>
-    </td>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.zent">
-        <img src="assets/zent.png" height="160" />
-      </a>
-      <br/>
-      <b>Zent</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.zent">Play Store</a> • <a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211">App Store</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.koerun">
-        <img src="assets/koerun.png" height="160" />
-      </a>
-      <br/>
-      <b>Koerun</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.koerun">Play Store</a> • <i>App Store (coming soon)</i>
-    </td>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.megurio">
-        <img src="assets/megurio.png" height="160" />
-      </a>
-      <br/>
-      <b>Megurio</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.megurio">Play Store</a> • <i>App Store (coming soon)</i>
-    </td>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.cookpot">
-        <img src="assets/cookpot.png" height="160" />
-      </a>
-      <br/>
-      <b>CookPot</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.cookpot">Play Store</a> • <a href="https://apps.apple.com/us/app/cookpot-recipe-finder/id6780263836">App Store</a>
-    </td>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">
-        <img src="assets/bloq.png" height="160" />
-      </a>
-      <br/>
-      <b>Bloq</b><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">Play Store</a> • <i>App Store (coming soon)</i>
+    <td align="center" width="33%">
+      <a href="https://store.steampowered.com/app/5498660/Cozy_Paws/"><img src="assets/cozy-paws.jpg" width="260" alt="Cozy Paws Steam capsule art" /></a><br />
+      <b>Cozy Paws</b><br />
+      Desktop companion idle game with Steam item drops<br />
+      <a href="https://store.steampowered.com/app/5498660/Cozy_Paws/">Steam</a> · coming soon
     </td>
   </tr>
 </table>
 
+### On mobile
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq"><img src="assets/bloq.png" width="300" alt="Bloq feature graphic" /></a><br />
+      <b>Bloq</b> (game)<br />
+      Block puzzle with procedurally generated, always-solvable levels<br />
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">Google Play</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem"><img src="assets/banner.png" width="300" alt="Crowd Mayhem feature graphic" /></a><br />
+      <b>Crowd Mayhem</b> (game)<br />
+      Hyper-casual crowd runner<br />
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">Google Play</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058"><img src="assets/nurapp.png" width="300" alt="NurApp feature graphic" /></a><br />
+      <b>NurApp</b> (app)<br />
+      Prayer times, Quran and Qibla finder<br />
+      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.nurapp">Google Play</a> · <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058">App Store</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211"><img src="assets/zent.png" width="300" alt="Zent feature graphic" /></a><br />
+      <b>Zent</b> (app)<br />
+      Offline subscription tracker, no account needed<br />
+      <a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211">App Store</a>
+    </td>
+  </tr>
+</table>
+
+### What I work with
+
+**Games:** Unity, C#, Netcode for GameObjects, Steamworks, Cinemachine, HDRP<br />
+**Apps:** React Native, Expo, TypeScript, Next.js<br />
+**Also:** Python, PyTorch and OpenCV from my computer vision internships at Ford Otosan
