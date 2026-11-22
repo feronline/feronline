@@ -39,6 +39,22 @@ I make games on my own under FerOnline Games, from the first prototype to the st
 
 <h3>Toolkit</h3>
 
-**Unity** · C# · Netcode for GameObjects · Steamworks · Cinemachine · HDRP<br />
-**React Native** · Expo · TypeScript · Next.js<br />
-**Python** · PyTorch · OpenCV
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Games</b><br /><br />
+      <img src="assets/stack-games.svg" height="44" alt="Unity, C#, Steam" /><br />
+      <sub>Netcode for GameObjects · Steamworks · Cinemachine · HDRP</sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>Apps</b><br /><br />
+      <img src="assets/stack-apps.svg" height="44" alt="React Native, Expo, TypeScript, Next.js" /><br />
+      <sub>React Native · Expo · TypeScript · Next.js</sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>Computer vision</b><br /><br />
+      <img src="assets/stack-ml.svg" height="44" alt="Python, PyTorch, OpenCV" /><br />
+      <sub>Python · PyTorch · OpenCV</sub>
+    </td>
+  </tr>
+</table>
