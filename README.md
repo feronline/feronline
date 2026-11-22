@@ -4,8 +4,6 @@
   <a href="https://feronlinegames.com/"><b>feronlinegames.com</b></a>
   &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ferhattopcuoglu/"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="mailto:ferhattopcuoglu256@gmail.com"><b>Email</b></a>
 </p>
 
 I make games on my own under FerOnline Games, from the first prototype to the store page. Right now I'm building **The Pool Problem**, a four-player online co-op game on Netcode for GameObjects and Steamworks.
