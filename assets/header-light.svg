@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Ferhat Topcuoglu, Unity game developer, FerOnline Games, Istanbul">
+  <defs>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a8864a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a8864a" stop-opacity="1"/>
+      <stop offset="1" stop-color="#a8864a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0" r="0.8">
+      <stop offset="0" stop-color="#c9a96e" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#c9a96e" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .label { font: 500 11.5px 'Helvetica Neue', 'Segoe UI', Arial, sans-serif; letter-spacing: 5px; }
+      .name  { font: 300 46px 'Helvetica Neue', 'Segoe UI Light', 'Segoe UI', Arial, sans-serif; letter-spacing: 9px; }
+      .role  { font: italic 400 17px Georgia, 'Times New Roman', serif; letter-spacing: 1px; }
+      .hairline { animation: breathe 6s ease-in-out infinite; }
+      @keyframes breathe { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="900" height="230" rx="10" fill="#fbfaf7"/>
+  <rect width="900" height="230" rx="10" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="899" height="229" rx="9.5" fill="none" stroke="#e6e2d9"/>
+
+  <text x="450" y="62" class="label" fill="#8a7a5c" text-anchor="middle">FERONLINE GAMES  ·  ISTANBUL</text>
+  <text x="454" y="122" class="name" fill="#141414" text-anchor="middle">FERHAT TOPCUOĞLU</text>
+  <rect class="hairline" x="300" y="144" width="300" height="1" fill="url(#hair)"/>
+  <text x="450" y="178" class="role" fill="#55514a" text-anchor="middle">Unity game developer, PC and mobile</text>
+</svg>

@@ -1,92 +1,86 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Ferhat Topcuoğlu, Unity game developer at FerOnline Games" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-dark.svg" width="100%" alt="Ferhat Topcuoğlu, Unity game developer, FerOnline Games, Istanbul" />
+</picture>
 
 <p align="center">
-  <a href="https://feronlinegames.com/"><img src="https://img.shields.io/badge/Website-feronlinegames.com-ff7a1a?style=for-the-badge&labelColor=0d0f1a" alt="Website: feronlinegames.com" /></a>
-  <a href="https://www.linkedin.com/in/ferhattopcuoglu/"><img src="https://img.shields.io/badge/LinkedIn-ferhattopcuoglu-2ee6c5?style=for-the-badge&labelColor=0d0f1a" alt="LinkedIn: ferhattopcuoglu" /></a>
-  <a href="mailto:ferhattopcuoglu256@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ffd23f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a" alt="Email: ferhattopcuoglu256@gmail.com" /></a>
+  <a href="https://feronlinegames.com/">feronlinegames.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ferhattopcuoglu/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:ferhattopcuoglu256@gmail.com">ferhattopcuoglu256@gmail.com</a>
 </p>
 
-### `> PLAYER 1`
+<br />
 
-I make games on my own under **FerOnline Games** in Istanbul, from the first prototype to the store page. So far that's a horror game on Steam, an online co-op game with a public demo, and casual mobile games on Google Play. When I'm not making games, I build mobile apps with React Native.
+I make games independently under **FerOnline Games**, taking each one from first prototype to store release. My work so far spans a narrative horror game on Steam, an online co-op game with a public demo, and casual games on Google Play. Alongside games, I build mobile apps with React Native.
 
-### `> NOW LOADING`
+Currently developing **The Pool Problem**, a four-player online co-op game built on Netcode for GameObjects and Steamworks, and **Cozy Paws**, a desktop companion game for Steam.
 
-```text
-The Pool Problem   [##########-----]   demo is out on Steam, full game in progress
-Cozy Paws          [########-------]   coming soon on Steam
-Keyception         [####-----------]   in development
-```
+<br />
 
-### `> SELECT YOUR GAME`
+#### PC
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://store.steampowered.com/app/5550040/The_Pool_Problem/"><img src="assets/the-pool-problem.jpg" height="122" alt="The Pool Problem Steam capsule art" /></a><br />
-      <b>The Pool Problem</b><br />
-      <sub>Fill a pool with up to 3 friends, from one spoon to a waterfall. Online co-op incremental sim.</sub><br />
-      <a href="https://store.steampowered.com/app/5550040/The_Pool_Problem/"><img src="https://img.shields.io/badge/Steam-Play%20the%20demo-ff7a1a?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d0f1a" alt="Play the demo on Steam" /></a>
+    <td valign="top" width="33%">
+      <a href="https://store.steampowered.com/app/5550040/The_Pool_Problem/"><img src="assets/the-pool-problem.jpg" width="100%" alt="The Pool Problem capsule art" /></a>
+      <br /><b>The Pool Problem</b>
+      <br /><sub>Online co-op incremental sim for up to four players.</sub>
+      <br /><sub><a href="https://store.steampowered.com/app/5550040/The_Pool_Problem/">Demo on Steam →</a></sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://store.steampowered.com/app/4160870/Echoes_of_the_Rest/"><img src="assets/steam-header.png" height="122" alt="Echoes of the Rest Steam capsule art" /></a><br />
-      <b>Echoes of the Rest</b><br />
-      <sub>First-person psychological horror. Explore Joe's house, find the clues, reach one of several endings.</sub><br />
-      <a href="https://store.steampowered.com/app/4160870/Echoes_of_the_Rest/"><img src="https://img.shields.io/badge/Steam-Out%20now-2ee6c5?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d0f1a" alt="Out now on Steam" /></a>
+    <td valign="top" width="33%">
+      <a href="https://store.steampowered.com/app/4160870/Echoes_of_the_Rest/"><img src="assets/echoes-of-the-rest.jpg" width="100%" alt="Echoes of the Rest capsule art" /></a>
+      <br /><b>Echoes of the Rest</b>
+      <br /><sub>First-person psychological horror with multiple endings.</sub>
+      <br /><sub><a href="https://store.steampowered.com/app/4160870/Echoes_of_the_Rest/">Available on Steam →</a></sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://store.steampowered.com/app/5498660/Cozy_Paws/"><img src="assets/cozy-paws.jpg" height="122" alt="Cozy Paws Steam capsule art" /></a><br />
-      <b>Cozy Paws</b><br />
-      <sub>Cats fight mice on your taskbar while you work. Desktop idle game with Steam item drops.</sub><br />
-      <a href="https://store.steampowered.com/app/5498660/Cozy_Paws/"><img src="https://img.shields.io/badge/Steam-Wishlist-ffd23f?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d0f1a" alt="Wishlist on Steam" /></a>
+    <td valign="top" width="33%">
+      <a href="https://store.steampowered.com/app/5498660/Cozy_Paws/"><img src="assets/cozy-paws.jpg" width="100%" alt="Cozy Paws capsule art" /></a>
+      <br /><b>Cozy Paws</b>
+      <br /><sub>Desktop companion idle game with Steam item drops.</sub>
+      <br /><sub><a href="https://store.steampowered.com/app/5498660/Cozy_Paws/">Wishlist on Steam →</a></sub>
     </td>
   </tr>
 </table>
 
-### `> ON THE GO`
+#### Mobile
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq"><img src="assets/bloq.png" width="300" alt="Bloq feature graphic" /></a><br />
-      <b>Bloq</b><br />
-      <sub>Fill the grid, clear the level. Every level is generated and always solvable.</sub><br />
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq"><img src="https://img.shields.io/badge/Google%20Play-Get%20it-2ee6c5?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d0f1a" alt="Get Bloq on Google Play" /></a>
+    <td valign="top" width="25%">
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq"><img src="assets/bloq.png" width="100%" alt="Bloq feature graphic" /></a>
+      <br /><b>Bloq</b>
+      <br /><sub>Puzzle game with generated, always-solvable levels.</sub>
+      <br /><sub><a href="https://play.google.com/store/apps/details?id=com.feronlinegames.bloq">Google Play →</a></sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem"><img src="assets/banner.png" width="300" alt="Crowd Mayhem feature graphic" /></a><br />
-      <b>Crowd Mayhem</b><br />
-      <sub>Grow your crowd through the gates, then take on the boss. Hyper-casual runner.</sub><br />
-      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem"><img src="https://img.shields.io/badge/Google%20Play-Get%20it-2ee6c5?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d0f1a" alt="Get Crowd Mayhem on Google Play" /></a>
+    <td valign="top" width="25%">
+      <a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem"><img src="assets/banner.png" width="100%" alt="Crowd Mayhem feature graphic" /></a>
+      <br /><b>Crowd Mayhem</b>
+      <br /><sub>Hyper-casual crowd runner.</sub>
+      <br /><sub><a href="https://play.google.com/store/apps/details?id=com.feronlinegames.crowdmayhem">Google Play →</a></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058"><img src="assets/nurapp.png" width="300" alt="NurApp feature graphic" /></a><br />
-      <b>NurApp</b><br />
-      <sub>Prayer times, Quran and Qibla finder.</sub><br />
-      <a href="https://play.google.com/store/apps/details?id=com.zirzapp.nurapp"><img src="https://img.shields.io/badge/Google%20Play-Get%20it-2ee6c5?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d0f1a" alt="Get NurApp on Google Play" /></a>
-      <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058"><img src="https://img.shields.io/badge/App%20Store-Get%20it-ff7a1a?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d0f1a" alt="Get NurApp on the App Store" /></a>
+    <td valign="top" width="25%">
+      <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058"><img src="assets/nurapp.png" width="100%" alt="NurApp feature graphic" /></a>
+      <br /><b>NurApp</b>
+      <br /><sub>Prayer times, Quran and Qibla.</sub>
+      <br /><sub><a href="https://play.google.com/store/apps/details?id=com.zirzapp.nurapp">Google Play</a> · <a href="https://apps.apple.com/us/app/nurapp-prayer-times/id6761554058">App Store →</a></sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211"><img src="assets/zent.png" width="300" alt="Zent feature graphic" /></a><br />
-      <b>Zent</b><br />
-      <sub>Keeps track of your subscriptions. Offline, no account needed.</sub><br />
-      <a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211"><img src="https://img.shields.io/badge/App%20Store-Get%20it-ff7a1a?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d0f1a" alt="Get Zent on the App Store" /></a>
+    <td valign="top" width="25%">
+      <a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211"><img src="assets/zent.png" width="100%" alt="Zent feature graphic" /></a>
+      <br /><b>Zent</b>
+      <br /><sub>Offline subscription tracker.</sub>
+      <br /><sub><a href="https://apps.apple.com/us/app/zent-subscription-tracker/id6779643211">App Store →</a></sub>
     </td>
   </tr>
 </table>
 
-### `> INVENTORY`
+#### Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,react,ts,nextjs,py,pytorch,opencv,git&perline=9" alt="Unity, C#, React Native, TypeScript, Next.js, Python, PyTorch, OpenCV, Git" />
-</p>
+<sub>Unity · C# · Netcode for GameObjects · Steamworks · Cinemachine · HDRP&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React Native · Expo · TypeScript · Next.js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python · PyTorch · OpenCV</sub>
 
-<p align="center"><sub>Netcode for GameObjects · Steamworks · Cinemachine · HDRP · Expo</sub></p>
+<br />
+<br />
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for playing. Continue at feronlinegames.com" />
-</p>
+<p align="center"><sub>FerOnline Games &nbsp;·&nbsp; Istanbul</sub></p>
